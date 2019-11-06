@@ -1,0 +1,7 @@
+{
+  "DATA_CREATED": "Record created successfully",
+  "DATA_UPDATED": "Record updated successfully",
+  "DATA_FOUND": "Records requested",
+  "DATA_NOT_FOUND": "Record can't be found",
+  "DATA_DELETED": "Record deleted"
+}
